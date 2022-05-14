@@ -1,9 +1,9 @@
-import React from "react";
-import "./App.css";
-import Row from "./components/Row/Row";
-import Banner from "./components/Banner/Banner";
-import Nav from "./components/Nav/Nav";
-import requests from "./utils/request";
+import React from 'react'
+import './App.css'
+import Row from './components/Row/Row'
+import Banner from './components/Banner/Banner'
+import Nav from './components/Nav/Nav'
+import { requests } from './utils/request'
 
 function App() {
   return (
@@ -27,7 +27,7 @@ function App() {
         isLargeRow
       />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
