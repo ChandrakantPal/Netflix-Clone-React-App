@@ -1,5 +1,7 @@
 # [Netflix Clone](https://netflixclonereact.netlify.app/)
 
+This Project is Netflix Frontend Clone Build with React.js and tmdb API
+
 ## Available Scripts
 
 In the project directory, you can run:
