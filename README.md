@@ -1,4 +1,4 @@
-# Netflix Clone
+# [Netflix Clone](https://netflixclonereact.netlify.app/)
 
 ## Available Scripts
 
