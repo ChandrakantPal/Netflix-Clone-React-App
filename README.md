@@ -7,7 +7,11 @@ This Project is Netflix Frontend Clone Build with React.js and tmdb API
 React.js
 tmdb API
 
-## Available Scripts
+## Get Started
+
+First run
+
+### `npm install`
 
 In the project directory, you can run:
 
